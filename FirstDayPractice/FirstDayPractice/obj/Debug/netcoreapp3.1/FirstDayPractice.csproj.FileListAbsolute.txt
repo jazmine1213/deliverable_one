@@ -1,0 +1,13 @@
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.exe
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.deps.json
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.runtimeconfig.json
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.runtimeconfig.dev.json
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.dll
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\bin\Debug\netcoreapp3.1\FirstDayPractice.pdb
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.csprojAssemblyReference.cache
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.AssemblyInfoInputs.cache
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.AssemblyInfo.cs
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.dll
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.pdb
+C:\Users\Jasmine\Documents\FirstDayPractice\FirstDayPractice\obj\Debug\netcoreapp3.1\FirstDayPractice.genruntimeconfig.cache

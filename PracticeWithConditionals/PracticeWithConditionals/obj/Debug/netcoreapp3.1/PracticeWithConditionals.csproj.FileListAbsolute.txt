@@ -1,0 +1,13 @@
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.exe
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.deps.json
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.runtimeconfig.json
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.runtimeconfig.dev.json
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.dll
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\bin\Debug\netcoreapp3.1\PracticeWithConditionals.pdb
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.csprojAssemblyReference.cache
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.AssemblyInfoInputs.cache
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.AssemblyInfo.cs
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.dll
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.pdb
+C:\Users\Jasmine\Documents\PracticeWithConditionals\PracticeWithConditionals\obj\Debug\netcoreapp3.1\PracticeWithConditionals.genruntimeconfig.cache
